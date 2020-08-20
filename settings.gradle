@@ -1,0 +1,3 @@
+rootProject.name='TextBannerDemo'
+include ':app'
+include ':textviewflowlibrary'
