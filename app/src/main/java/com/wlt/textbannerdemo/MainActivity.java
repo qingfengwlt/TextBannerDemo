@@ -66,8 +66,4 @@ public class MainActivity extends AppCompatActivity implements TextViewFlipperCl
 
     }
 
-    @Override
-    public void onPointerCaptureChanged(boolean hasCapture) {
-
-    }
 }
